@@ -1,0 +1,1 @@
+Projeto para praticar o desenvolvimento front-end com HTML, CSS e JavaScript

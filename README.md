@@ -1,6 +1,9 @@
-# Projetos-Curriculo
-## Projetos Pessoais para o meu curriculo
+<h1>Projetos-Curriculo</h1>
+<h2>Projetos Pessoais para o meu curriculo</h2>
 
-Branches:
-main: Projeto pessoal para treinar desenvolvimento front-end usando html, css, javaScript. <br/>
-master: Projeto pessoal para treinar desenvolvimento front-end e back-end usando html, css, JavaScript, TypeScript, Node.js e SQLite
+<p>Branches:
+<ul>
+  <li>main: Projeto pessoal para treinar desenvolvimento front-end usando html, css, javaScript.</li>
+  <li>master: Projeto pessoal para treinar desenvolvimento front-end, back-end e principalmente Node.js</li>
+</ul>
+</p>

@@ -3,7 +3,7 @@
 
 <p>Branches:
 <ul>
-  <li><a href="https://github.com/gustavo2207/Projetos-Curriculo/tree/main">main: Projeto pessoal para treinar desenvolvimento front-end usando html, css, javaScript.</a></li>
+  <li><a href="https://github.com/gustavo2207/Projetos-Curriculo/tree/Primeiro-Projeto-Front">main: Projeto pessoal para treinar desenvolvimento front-end usando html, css, javaScript.</a></li>
   <li><a href="https://github.com/gustavo2207/Projetos-Curriculo/tree/master">master: Projeto pessoal para treinar desenvolvimento front-end, back-end e principalmente Node.js</a></li>
 </ul>
 </p>

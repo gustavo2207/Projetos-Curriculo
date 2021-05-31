@@ -3,4 +3,4 @@
 
 Branches:
 main: Projeto pessoal para treinar desenvolvimento front-end usando html, css, javaScript.
-master: Projeto pessoal para treinar desenvolvimento front-end e back-end usando html, css, JavaScript, TypeScript, Node.js e SQLite
+\nmaster: Projeto pessoal para treinar desenvolvimento front-end e back-end usando html, css, JavaScript, TypeScript, Node.js e SQLite
